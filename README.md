@@ -2,7 +2,7 @@
 
 A presentation for final-year B.Tech students on how to plan, write, revise and submit a research paper, and how to use AI tools such as ChatGPT without getting burned.
 
-**File:** [`paper_writing_talk.pdf`](paper_writing_talk.pdf), about 54 slides, designed for a talk of roughly 2.5 hours.
+**File:** [`paper_writing_talk.pdf`](paper_writing_talk.pdf), about 53 slides, designed for a talk of roughly 2.5 hours.
 
 **Author:** Dr. Vipin Venugopal  
 Amrita School of Artificial Intelligence, Amrita Vishwa Vidyapeetham, Coimbatore, Tamil Nadu, India
@@ -14,7 +14,7 @@ Amrita School of Artificial Intelligence, Amrita Vishwa Vidyapeetham, Coimbatore
 | 1 | What gets published | Why a paper is an *argument*, not a report; common reasons papers are rejected |
 | 2 | Choosing a venue | Journal vs. conference, how to spot predatory journals, research ethics and authorship |
 | 3 | Writing the paper | Seven rules, outlines, Introduction/Methods/Results/Discussion, abstract, title, figures and tables |
-| 4 | Revising | Macro vs. micro revision, editing diagnostics, practical revision tricks |
+| 4 | Revising | Macro vs. micro revision, practical revision tricks |
 | 5 | Submit and review | Submission checklist, cover letter, handling reviews and writing a response letter, a 12-week plan |
 | 6 | AI tools | Where AI helps and where it hurts, hallucinated references, confidentiality, publisher policies, AI detectors, a safe workflow, disclosure, a class activity |
 | 7 | Wrap-up | Final checklist, take-aways, references |
